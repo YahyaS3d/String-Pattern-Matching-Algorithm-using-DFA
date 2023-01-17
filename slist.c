@@ -1,5 +1,5 @@
-//By: Yahya Saad ID: 322944869
-//Ex1: slist.c
+//Yahya Saad
+//slist.c
 #include <stdio.h>
 #include <stdlib.h>
 #include "slist.h"
