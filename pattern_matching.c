@@ -1,5 +1,5 @@
-//By: Yahya Saad ID: 322944869
-//Ex1: pattern_matching.c
+//Yahya Saad
+//pattern_matching.c
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
